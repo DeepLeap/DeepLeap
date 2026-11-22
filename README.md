@@ -2,15 +2,16 @@
 
 # YUKE · DeepLeap
 
-**节跃 · 与可 — Where Frontier Science Meets Visual Clarity**
-
-*Independent AI Engineer · Scientific Visualization Designer · OPC (One-Person Company)*
+Independent AI Engineer & Scientific Visualization Designer
 
 <p>
-  <img src="https://img.shields.io/badge/Group-DeepLeap_%E8%8A%82%E8%B7%83-0D0D0D?style=flat-square&labelColor=0D0D0D&color=48D6C3" alt="DeepLeap" />
-  <img src="https://img.shields.io/badge/OPC-One--Person_Company-0D0D0D?style=flat-square&labelColor=0D0D0D&color=38BDF8" alt="OPC" />
-  <img src="https://img.shields.io/badge/Role-Independent_AI_Engineer-0D0D0D?style=flat-square&labelColor=0D0D0D&color=B8F5A0" alt="Independent AI Engineer" />
+  <img src="https://img.shields.io/badge/DeepLeap-%E8%8A%82%E8%B7%83-0D0D0D?style=flat-square&labelColor=0D0D0D&color=48D6C3" alt="DeepLeap" />
+  <img src="https://img.shields.io/badge/YUKE-%E4%B8%8E%E5%8F%AF-0D0D0D?style=flat-square&labelColor=0D0D0D&color=38BDF8" alt="YUKE" />
   <a href="mailto:dangiakodi@gmail.com"><img src="https://img.shields.io/badge/Email-dangiakodi%40gmail.com-0D0D0D?style=flat-square&labelColor=0D0D0D&color=F2F5F1" alt="Email" /></a>
+</p>
+
+<p>
+  <b>English</b> | <a href="https://github.com/DeepLeap/DeepLeap/blob/main/README.zh-CN.md">简体中文</a>
 </p>
 
 </div>
@@ -19,46 +20,38 @@
 
 ### About
 
-Hi, I'm **YUKE (与可)** — an **Independent AI Engineer** & **Scientific Visualization Designer**, building **DeepLeap (节跃)** as an **OPC (One-Person Company)** at the intersection of **AI Agents** and **Frontier Science Visuals**.
+I'm **YUKE (与可)**, running **DeepLeap (节跃)** as an independent studio focused on AI developer tooling and scientific visualization.
 
-- **AI Research & Engineering**: Exploring autonomous AI agents, multi-agent orchestration, and human-AI co-creation workflows.
-- **Scientific Visualization**: Crafting top-journal cover art, TOC figures, 3D mechanism animations, and interactive scientific visuals.
-- **Philosophy**: *"胸有成竹，而后落笔 — Understand First. Make It Visible."*
+- **AI Tooling & Agents**: Building lightweight MCP servers, agent workflows, and automation scripts for daily engineering and design tasks.
+- **Scientific Visualization**: Designing journal cover art, TOC figures, 3D mechanism animations, and interactive web visuals for research groups.
 - **Contact**: [dangiakodi@gmail.com](mailto:dangiakodi@gmail.com)
 
 ---
 
-### What I'm Building
+### Projects
 
 | Project | Description |
 | :--- | :--- |
-| [**HumanWire**](https://github.com/DeepLeap/humanwire) | Zero-dependency encrypted MCP wire connecting AIs & real humans — room link, 24h public plaza, anonymous dead-drop routing & AI security airlock. |
-| **Visual Bridge** | AI-native requirement alignment & project workspace bridging researchers and visual designers. |
-| **Explore / Living Papers** | Interactive 3D scientific storytelling & web-native living papers powered by Three.js / WebGL / WebGPU. |
-| **Creative AI Pipelines** | Automation scripts & agent workflows for Cinema 4D (Python), Adobe ExtendScript, and visual asset pipelines. |
+| [**HumanWire**](https://github.com/DeepLeap/humanwire) | Zero-dependency encrypted MCP server for connecting AI clients across machines via room codes, a 24h public plaza, or topic matching. |
+| **Visual Bridge** | Project workspace and requirement alignment tool connecting researchers with scientific illustrators. |
+| **Explore / Living Papers** | Interactive 3D scientific visuals and web-based paper companions built with Three.js, WebGL, and WebGPU. |
+| **Creative Pipelines** | Python and ExtendScript automation tools for Cinema 4D, Photoshop, and After Effects. |
 
 ---
 
-### Tech & Creative Stack
+### Daily Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=48D6C3" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=nodedotjs&logoColor=B8F5A0" alt="Node.js" />
   <img src="https://img.shields.io/badge/Three.js-0D0D0D?style=flat-square&logo=threedotjs&logoColor=F2F5F1" alt="Three.js" />
   <img src="https://img.shields.io/badge/WebGL_%2F_WebGPU-0D0D0D?style=flat-square&logo=webgl&logoColor=48D6C3" alt="WebGL" />
   <img src="https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=F2F5F1" alt="Next.js" />
-  <img src="https://img.shields.io/badge/AI_Agents-0D0D0D?style=flat-square&logo=openai&logoColor=B8F5A0" alt="AI Agents" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Cinema_4D-0D0D0D?style=flat-square&logo=cinema4d&logoColor=38BDF8" alt="Cinema 4D" />
   <img src="https://img.shields.io/badge/Photoshop-0D0D0D?style=flat-square&logo=adobephotoshop&logoColor=38BDF8" alt="Photoshop" />
   <img src="https://img.shields.io/badge/After_Effects-0D0D0D?style=flat-square&logo=adobeaftereffects&logoColor=B8F5A0" alt="After Effects" />
-  <img src="https://img.shields.io/badge/Automation_Scripts-0D0D0D?style=flat-square&logo=gnubash&logoColor=48D6C3" alt="Automation" />
 </p>
-
----
-
-<div align="center">
-  <sub>DeepLeap (节跃) · YUKE (与可) OPC — Exploring AI Engineering & Scientific Visualization · <a href="mailto:dangiakodi@gmail.com">dangiakodi@gmail.com</a></sub>
-</div>
