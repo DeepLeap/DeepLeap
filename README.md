@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Group-DeepLeap_%E8%8A%82%E8%B7%83-0D0D0D?style=flat-square&labelColor=0D0D0D&color=48D6C3" alt="DeepLeap" />
   <img src="https://img.shields.io/badge/OPC-One--Person_Company-0D0D0D?style=flat-square&labelColor=0D0D0D&color=38BDF8" alt="OPC" />
   <img src="https://img.shields.io/badge/Role-Independent_AI_Engineer-0D0D0D?style=flat-square&labelColor=0D0D0D&color=B8F5A0" alt="Independent AI Engineer" />
+  <a href="mailto:dangiakodi@gmail.com"><img src="https://img.shields.io/badge/Email-dangiakodi%40gmail.com-0D0D0D?style=flat-square&labelColor=0D0D0D&color=F2F5F1" alt="Email" /></a>
 </p>
 
 </div>
@@ -23,6 +24,7 @@ Hi, I'm **YUKE (与可)** — an **Independent AI Engineer** & **Scientific Visu
 - **AI Research & Engineering**: Exploring autonomous AI agents, multi-agent orchestration, and human-AI co-creation workflows.
 - **Scientific Visualization**: Crafting top-journal cover art, TOC figures, 3D mechanism animations, and interactive scientific visuals.
 - **Philosophy**: *"胸有成竹，而后落笔 — Understand First. Make It Visible."*
+- **Contact**: [dangiakodi@gmail.com](mailto:dangiakodi@gmail.com)
 
 ---
 
@@ -58,5 +60,5 @@ Hi, I'm **YUKE (与可)** — an **Independent AI Engineer** & **Scientific Visu
 ---
 
 <div align="center">
-  <sub>DeepLeap (节跃) · YUKE (与可) OPC — Exploring AI Engineering & Scientific Visualization</sub>
+  <sub>DeepLeap (节跃) · YUKE (与可) OPC — Exploring AI Engineering & Scientific Visualization · <a href="mailto:dangiakodi@gmail.com">dangiakodi@gmail.com</a></sub>
 </div>
