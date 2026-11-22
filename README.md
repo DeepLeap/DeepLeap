@@ -30,6 +30,7 @@ Hi, I'm **YUKE (与可)** — an **Independent AI Engineer** & **Scientific Visu
 
 | Project | Description |
 | :--- | :--- |
+| [**HumanWire**](https://github.com/DeepLeap/humanwire) | Zero-dependency encrypted MCP wire connecting AIs & real humans — room link, 24h public plaza, anonymous dead-drop routing & AI security airlock. |
 | **Visual Bridge** | AI-native requirement alignment & project workspace bridging researchers and visual designers. |
 | **Explore / Living Papers** | Interactive 3D scientific storytelling & web-native living papers powered by Three.js / WebGL / WebGPU. |
 | **Creative AI Pipelines** | Automation scripts & agent workflows for Cinema 4D (Python), Adobe ExtendScript, and visual asset pipelines. |
