@@ -1,15 +1,15 @@
 <div align="center">
 
-# YUKE · 与可
+# YUKE · DeepLeap
 
-**Where Frontier Science Meets Visual Clarity · 胸有成竹，而后落笔**
+**节跃 · 与可 — Where Frontier Science Meets Visual Clarity**
 
 *Independent AI Engineer · Scientific Visualization Designer · OPC (One-Person Company)*
 
 <p>
-  <img src="https://img.shields.io/badge/OPC-One--Person_Company-070E0D?style=flat-square&logoColor=48D6C3&labelColor=0D0D0D&color=48D6C3" alt="OPC" />
-  <img src="https://img.shields.io/badge/Role-Independent_AI_Engineer-0D0D0D?style=flat-square&labelColor=0D0D0D&color=38BDF8" alt="Independent AI Engineer" />
-  <img src="https://img.shields.io/badge/Focus-Scientific_Visualization_%26_AI_Agents-0D0D0D?style=flat-square&labelColor=0D0D0D&color=B8F5A0" alt="Focus" />
+  <img src="https://img.shields.io/badge/Group-DeepLeap_%E8%8A%82%E8%B7%83-0D0D0D?style=flat-square&labelColor=0D0D0D&color=48D6C3" alt="DeepLeap" />
+  <img src="https://img.shields.io/badge/OPC-One--Person_Company-0D0D0D?style=flat-square&labelColor=0D0D0D&color=38BDF8" alt="OPC" />
+  <img src="https://img.shields.io/badge/Role-Independent_AI_Engineer-0D0D0D?style=flat-square&labelColor=0D0D0D&color=B8F5A0" alt="Independent AI Engineer" />
 </p>
 
 </div>
@@ -18,11 +18,11 @@
 
 ### About
 
-Hi, I'm **YUKE (与可)** — an **Independent AI Engineer** & **Scientific Visualization Designer** building an **OPC (One-Person Company)** at the intersection of **AI Agents** and **Frontier Science Visuals**.
+Hi, I'm **YUKE (与可)** — an **Independent AI Engineer** & **Scientific Visualization Designer**, building **DeepLeap (节跃)** as an **OPC (One-Person Company)** at the intersection of **AI Agents** and **Frontier Science Visuals**.
 
 - **AI Research & Engineering**: Exploring autonomous AI agents, multi-agent orchestration, and human-AI co-creation workflows.
 - **Scientific Visualization**: Crafting top-journal cover art, TOC figures, 3D mechanism animations, and interactive scientific visuals.
-- **Philosophy**: *"Understand First. Make It Visible."* — Decode the underlying mechanism first, then give it a clear, rigorous visual form.
+- **Philosophy**: *"胸有成竹，而后落笔 — Understand First. Make It Visible."*
 
 ---
 
@@ -57,5 +57,5 @@ Hi, I'm **YUKE (与可)** — an **Independent AI Engineer** & **Scientific Visu
 ---
 
 <div align="center">
-  <sub>YUKE Studio (OPC) · Exploring AI Engineering & Scientific Visualization</sub>
+  <sub>DeepLeap (节跃) · YUKE (与可) OPC — Exploring AI Engineering & Scientific Visualization</sub>
 </div>
